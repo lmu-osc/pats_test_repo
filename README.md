@@ -4,6 +4,10 @@
 
 Hello there everyone --Pat
 
+
 Malika's edits <3
 
-edits form Malika's branch
+## More changes
+
+I forgot to pull Malika's changes before creating a branch.
+
