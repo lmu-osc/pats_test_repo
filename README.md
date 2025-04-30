@@ -3,7 +3,7 @@
 Hello 
 
 
-These are my additional changes; showing how to create branches from branches.
+These are my additional changes: showing how to create branches from branches.
 
 ## Some additional text
 
