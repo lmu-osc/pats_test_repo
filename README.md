@@ -7,3 +7,9 @@ Hello there everyone --Pat
 Malika's edits <3
 
 hello, it's luz
+
+## More changes
+
+I forgot to pull Malika's changes before creating a branch.
+
+Malika's edits <3
